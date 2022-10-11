@@ -23,7 +23,7 @@ body {
     animation: rotate 0.56s infinite linear;
     width:50px;
     height:50px;
-    border:12px solid rgb(255, 44, 90);
+    border:12px solid rgb(143, 12, 125);
     border-bottom:12px solid #fff;
     border-radius:50%;
     margin:0;
@@ -70,7 +70,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #magnify h1:hover{
-    color:rgb(255, 44, 90);
+    color:rgb(143, 12, 125);
     cursor:pointer;
 }
 #img_here {
@@ -82,7 +82,7 @@ header table {
 }
 #logo {
     font-size:24px;
-    color:rgb(255, 44, 90);
+    color:rgb(143, 12, 125);
 }
 #navigation {
     text-align:right;
@@ -133,7 +133,7 @@ header table {
   font-size: 30px;
 }
 .social {
-    color:rgb(255, 44, 90);
+    color:rgb(143, 12, 125);
     font-size:23px;
     padding:12px 17px;
     border-radius:50%;
@@ -145,15 +145,15 @@ header table {
 .social:hover {
     cursor: pointer;
     color:#fff;
-    background:rgb(255, 44, 90);
-    box-shadow:0px 10px 30px rgba(255, 66, 107,0.8);
+    background:rgb(143, 12, 125);
+    box-shadow:0px 10px 30px rgba(143, 12, 125,0.8);
 }
 .btn_one {
     font-size:18px;
     font-family: 'Poppins', sans-serif;
-    color:rgb(255, 44, 90);
+    color:rgb(143, 12, 125);
     background:#fff;
-    border:3px solid rgb(255, 44, 90);
+    border:3px solid rgb(143, 12, 125);
     padding:8px 40px;
     width:35%;
     border-radius:80px;
@@ -162,15 +162,15 @@ header table {
     transition:0.4s ease-in-out;
 }
 .btn_one:hover {
-    box-shadow:0px 10px 30px rgba(255, 44, 90, 0.8);
+    box-shadow:0px 10px 30px rgba(143, 12, 125, 0.8);
     cursor:pointer;
     color:#fff;
-    background:rgb(255, 44, 90);
+    background:rgb(143, 12, 125);
 }
 #rightImage {
     width:100%;
     height:95vh;
-    background:linear-gradient(0deg,rgba(255, 44, 90, 0.8),rgba(2255, 44, 90, 0.8)),url("img/title.jpeg") center center;
+    background:linear-gradient(0deg,rgba(143, 12, 125, 0.8),rgba(2143, 12, 125, 0.8)),url("img/title.jpeg") center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
@@ -182,7 +182,7 @@ header table {
 }
 #work h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(143, 12, 125);
     width:6%;
 }
 #photos {
@@ -209,7 +209,7 @@ header table {
 }
 #bio h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(143, 12, 125);
     width:8%;
 }
 #contact {
@@ -218,7 +218,7 @@ header table {
 }
 #contact h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(143, 12, 125);
     width:10%;
 }
 #contact table {
@@ -244,7 +244,7 @@ header table {
     margin:20px 1%;
     background:transparent;
     border:0px;
-    border-bottom:3px solid rgba(255, 44, 90,0.5);
+    border-bottom:3px solid rgba(143, 12, 125,0.5);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
     font-size:18px;
@@ -257,7 +257,7 @@ header table {
     margin:20px 1%;
     padding:8px 10px;
     border:0px;
-    border-bottom:3px solid rgba(255, 44, 90,0.5);
+    border-bottom:3px solid rgba(143, 12, 125,0.5);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
     font-size:18px;
@@ -269,11 +269,11 @@ header table {
 }
 #contact form input:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid rgba(143, 12, 125,1);
 }
 #contact form textarea:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid rgba(143, 12, 125,1);
 }
 #address {
     position:relative;
@@ -287,7 +287,7 @@ header table {
     font-weight:bold;
 }
 #footer a {
-    color:rgb(255, 44, 90);
+    color:rgb(143, 12, 125);
     text-decoration:none;
 }
 ::placeholder {
@@ -350,12 +350,12 @@ button:focus {
     padding:6px 30px;
     width:60%;
     margin:4vh auto;
-    box-shadow:0px 10px 20px rgba(255, 44, 90, 0.8);
-    background:rgb(255, 44, 90);
+    box-shadow:0px 10px 20px rgba(143, 12, 125, 0.8);
+    background:rgb(143, 12, 125);
     color:#fff;
     }
     .btn_one:hover {
-        box-shadow:0px 10px 40px rgba(255, 44, 90, 0.8);
+        box-shadow:0px 10px 40px rgba(143, 12, 125, 0.8);
         cursor:pointer;
     }
     #contact table tr td {
